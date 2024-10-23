@@ -1,7 +1,3 @@
-Here's an updated README with a section for assignment submission notes:
-
----
-
 # Chatbot Project
 
 This project is a custom chatbot built using Langchain, designed to extract course information from a URL, create embeddings, and provide a RESTful API for searching courses.
