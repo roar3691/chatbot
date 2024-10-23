@@ -63,10 +63,3 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 ## License
 
 This project is licensed under the MIT License.
-
-## Submission Notes
-
-- Ensure all code is pushed to the public GitHub repository.
-- Verify that the README file is complete and accurate.
-- Share the GitHub repository URL as part of your assignment submission.
-- Confirm that all required files are included and that instructions are clear for setting up and running the project.
